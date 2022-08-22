@@ -1,4 +1,5 @@
 #!/bin/csh
+# FreeBSD login banner creater
 
 cat << "EOF" > /etc/motd
   _____  _   _  _     _    ____     _ 
