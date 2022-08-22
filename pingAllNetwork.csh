@@ -1,4 +1,5 @@
 #!/bin/csh
+# Ping given network range with one sec timeout
 
 foreach  i (`seq 1 254`)
 echo $i
