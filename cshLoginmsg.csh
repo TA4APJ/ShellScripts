@@ -1,5 +1,7 @@
 #!/bin/csh
 
+#FreeBSDCsh show iface ip as login message 
+
 /bin/cat << "EOF" >> /etc/csh.login
 set ifem = "em0"
 set ifigb = "igb0"
