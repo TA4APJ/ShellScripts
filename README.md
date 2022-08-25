@@ -1,2 +1,2 @@
 # ShellScripts
-FreeBSD & Linux C/Bourne again shell scripting examples 
+FreeBSD & Linux C/Bourne Again shell scripting examples 
