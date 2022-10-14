@@ -1,4 +1,0 @@
-#!/bin/sh
-
-dialog --checklist "Seçim Yapınız" 10 40 3	1 Ankara  off	2 Adana on	3 Bursa  off
-
