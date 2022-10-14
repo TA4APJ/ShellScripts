@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dialog --title 'Soru' --yesno 'İyi misin?' 6 25

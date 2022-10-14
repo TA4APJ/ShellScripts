@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dialog --title 'Mesaj' --msgbox 'Merhaba, Dünya' 5 20

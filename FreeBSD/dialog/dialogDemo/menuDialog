@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dialog --menu "Yapmak istediğiniz işlemi seçiniz:" 10 30 3 1 kırmızı 2 mavi 3 beyaz
